@@ -6,5 +6,5 @@
 ## my plan: 
 Club Penguin is over. <br>
 I used to spend hours on Club Penguin playing mancala so once it closed and I could never play it again, I made it my plan to recreate my childhood. For those of you who have no clue what Club Penguin or mancala is here are a few pictures.<br>
-<img src="../imgs/clubPenguin.png" width="50%" style="float:right">
-<img src="../imgs/mancala.png" width="50%" style="float:left">
+<img src="../imgs/clubPenguin.png" width="46%" style="float:right">
+<img src="../imgs/mancala.png" width="46%" style="float:left">
