@@ -81,3 +81,7 @@ to go with it. Next week I will dive more into websockets and their uses and imp
    the two player element of this game I created many bugs. I left it in a semi-functioning
    condition but decided to move on to websockets because at this point that would make
    bigger impact then some bugs I can work out later.
+
+### sources:
+https://www.html5rocks.com/en/tutorials/websockets/basics/
+https://github.com/imanel/websocket-eventmachine-server
